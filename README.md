@@ -12,6 +12,8 @@ Expected behavior: Two separate, readable tab labels, with the selected label co
 
 Actual behavior: Both tabs are squished into a single, tiny, truncated square-ish region.
 
+<img src="https://github.com/siracusa/TabViewSheet/blob/main/screenshot.png?raw=true" width=762 alt="Screenshot">
+
 ## Verified environment
 
 | Component | Version |
