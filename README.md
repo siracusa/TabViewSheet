@@ -1,4 +1,4 @@
-# SwiftUI TabView labels overlap in a sheet on macOS 27
+# FB25046685: SwiftUI TabView labels are unreadable in a sheet on macOS 27
 
 This sample reproduces two text-only tab labels being drawn on top of each other in a tiny control during the initial presentation of a SwiftUI sheet.
 
